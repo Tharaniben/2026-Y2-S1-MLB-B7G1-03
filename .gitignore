@@ -7,6 +7,7 @@ Thumbs.db
 .idea/
 *.log
 setup_git.sh
+push_update.sh
 claude_code_prompt*.md
 
 # NOTE: The dataset IS tracked by git (not ignored). All members get the data
