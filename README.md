@@ -22,12 +22,12 @@ This project builds a binary classifier that predicts whether a mushroom is **ed
 
 | Member | IT Number | Preprocessing Technique | Model |
 |---|---|---|---|
-| Member 1 | IT_______ | Label Encoding | Logistic Regression |
-| Member 2 | IT_______ | One-Hot Encoding | Decision Tree |
-| Member 3 | IT_______ | Ordinal Encoding + Imputation Study | Random Forest |
-| Member 4 | IT_______ | Binary Encoding | SVM |
-| Member 5 | IT_______ | Chi-Square Feature Selection | KNN |
-| Member 6 | IT_______ | Target / Frequency Encoding | Neural Network |
+| Member 1 | IT25101691 | Label Encoding | Logistic Regression |
+| Member 2 | IT25100587 | One-Hot Encoding | Decision Tree |
+| Member 3 | IT25103584 | Ordinal Encoding + Imputation Study | Random Forest |
+| Member 4 | IT25101504 | Binary Encoding | SVM |
+| Member 5 | IT25103390 | Chi-Square Feature Selection | KNN |
+| Member 6 | IT25102505 | Target / Frequency Encoding | Neural Network |
 
 **Each member's preprocessing notebook is independent and starts from the raw dataset — there
 is no dependency chain between member notebooks.** Every notebook in `notebooks/` loads
