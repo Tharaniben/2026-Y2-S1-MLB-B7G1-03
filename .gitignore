@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+setup_git.sh
+push_update.sh
+claude_code_prompt*.md
+
+# NOTE: The dataset IS tracked by git (not ignored). All members get the data
+# automatically when they clone the repo.
