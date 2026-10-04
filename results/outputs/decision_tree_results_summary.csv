@@ -1,3 +1,0 @@
-Model,Accuracy,Precision,Recall,F1
-Baseline,1.0,1.0,1.0,1.0
-Tuned (GridSearchCV),1.0,1.0,1.0,1.0
