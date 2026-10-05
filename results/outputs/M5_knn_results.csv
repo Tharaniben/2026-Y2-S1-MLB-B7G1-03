@@ -1,0 +1,4 @@
+Variety,Accuracy,Precision,Recall,F1,ROC-AUC,False negatives (poisonous called edible),False positives
+V1 Label+Scaled,1.0,1.0,1.0,1.0,1.0,0,0
+V2 One-Hot,1.0,1.0,1.0,1.0,1.0,0,0
+V3 Hamming,1.0,1.0,1.0,1.0,1.0,0,0
